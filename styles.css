@@ -1,0 +1,25 @@
+body {
+    background-image: url('img/fondo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 225, 0);
+}
+
+h2{
+    color: rgb(255, 225, 0);
+}
+
+p{
+    color: aqua;
+}
+
+.uno{
+    color: rgb(255, 225, 0);
+}
