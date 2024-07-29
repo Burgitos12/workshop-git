@@ -5,21 +5,19 @@ body {
     background-position: center;
     min-height: 100vh;
     margin: 0;
+    color: white;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
     color: rgb(255, 225, 0);
 }
 
-h2{
-    color: rgb(255, 225, 0);
-}
-
-p{
+p, ul {
     color: aqua;
+    padding: 0 20px;
 }
 
-.uno{
+p.uno {
     color: rgb(255, 225, 0);
 }
